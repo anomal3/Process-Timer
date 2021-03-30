@@ -1,0 +1,9 @@
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\bin\Release\TimerProgram.exe.config
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\bin\Release\TimerProgram.exe
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\bin\Release\TimerProgram.pdb
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\obj\Release\TimerProgram.MainForm.resources
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\obj\Release\TimerProgram.Properties.Resources.resources
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\obj\Release\TimerProgram.csproj.GenerateResource.cache
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\obj\Release\TimerProgram.csproj.CoreCompileInputs.cache
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\obj\Release\TimerProgram.exe
+Z:\c# project\TimerProgram\TimerProgram\TimerProgram\obj\Release\TimerProgram.pdb
