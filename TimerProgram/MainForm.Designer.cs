@@ -111,11 +111,11 @@ namespace TimerProgram
             // 
             // tbProgram
             // 
-            this.tbProgram.Location = new System.Drawing.Point(386, 70);
+            this.tbProgram.Location = new System.Drawing.Point(232, 70);
             this.tbProgram.Name = "tbProgram";
-            this.tbProgram.Size = new System.Drawing.Size(26, 22);
+            this.tbProgram.Size = new System.Drawing.Size(180, 22);
             this.tbProgram.TabIndex = 4;
-            this.tbProgram.Text = "Kryptex";
+            this.tbProgram.Text = "PrName... Example : chrome";
             // 
             // TimerExit
             // 
